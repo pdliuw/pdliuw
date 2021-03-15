@@ -1,2 +1,2 @@
 
-![totem](https://raw.githubusercontent.com/pdliuw/pdliuw.github.io/master/images/totem_four_logo.jpg)
+![game](https://github.com/pdliuw/pdliuw/blob/master/gif/game.gif?raw=true)
